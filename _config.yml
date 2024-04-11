@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Manojit Nath"
+title                    : "Manojit's Homepage"
 title_separator          : "-"
 name                     : &name "Manojit Nath"
 description              : &description "Cybersecurity Consultant"
