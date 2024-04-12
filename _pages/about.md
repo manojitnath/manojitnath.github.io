@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there 👋🏼 I’m Manojit!"
+title: "Hello there👋🏼, I’m Manojit!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,7 @@ redirect_from:
 A Cybersecurity Consultant with 8+ years of experience in cyber risk management & strategy. Implementing cybersecurity solutions that drives business growth and improves information systems. Core competencies include Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
 
 Here, I'll be sharing my professional journey, diving into cloud security labs, and documenting various cybersecurity projects. 
+
 
 
 Professional Background
