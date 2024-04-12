@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I’m Manojit!"
+title: "Hello there, I’m Manojit! 👋🏼 "
 author_profile: true
 redirect_from: 
   - /about/
