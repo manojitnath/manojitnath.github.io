@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-A Cybersecurity Consultant with 8+ years of experience and expertise in cyber risk management & strategy, implementing cybersecurity solutions that drives business growth and improves information systems. Domain expertise in Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
+A Cybersecurity Consultant with 8+ years of experience in cyber risk management & strategy, & implementing cybersecurity solutions that drives business growth and improves information systems. 
+Domain expertise in Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
 
 A data-driven personal website
 ======
