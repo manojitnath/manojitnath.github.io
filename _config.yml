@@ -216,7 +216,6 @@ collections:
 # Defaults
 defaults:
   # _posts
-  classes: wide
   - scope:
       path: ""
       type: posts
@@ -228,6 +227,7 @@ defaults:
       share: true
       related: true
   # _pages
+  - Classes: wide
   - scope:
       path: ""
       type: pages
