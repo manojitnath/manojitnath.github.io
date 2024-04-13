@@ -218,7 +218,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      Classes: wide
+      Class: wide
       type: posts
     values:
       layout: single
