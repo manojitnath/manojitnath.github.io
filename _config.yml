@@ -219,7 +219,7 @@ defaults:
   - scope:
       path: ""
       layout: single
-      classes: wide
+      class: wide
       type: posts
     values:
       layout: single
