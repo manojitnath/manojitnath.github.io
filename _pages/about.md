@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-A Cybersecurity Consultant with 8+ years of experience in cyber risk management & strategy. Implementing cybersecurity solutions that drives business growth and improves information systems. Core competencies include Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
+A Cybersecurity professional with 8+ years of experience in cyber risk management & strategy. Implementing cybersecurity solutions that drives business growth and improves information systems. Core competencies include Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
 
 Here, I'll be sharing my professional journey, diving into cloud security labs, and documenting various cybersecurity projects. <br />
 <br />
 
 # Professional Experience
 
-I currently work at Deloitte as a consultant in the cyber risk & strategy domain, where I help clients across various industry sectors of Financial Services, Healthcare, Consumer & Industrial Products, Oil and Gas to achieve their organization's cybersecurity goals and objectives. 
+I currently work at Deloitte as a consultant in the cyber risk & strategy domain, where I help clients across various industry sectors of Financial Services, Healthcare, Consumer & Industrial Products, Oil and Gas to achieve their organization's cybersecurity goals and objectives. My responsibilities involve performing third party risk assessments, IT/OT risk management, cyber maturity assessments across industry standards and regulations like NIST CSF, NIST 800-53, HIPAA etc. 
 
-## Cyber Security Projects
+For a comprehensive overview of my work experience, please look at my cv [here.](https://manojitnath.github.io/files/CV.pdf)
 
-Register a GitHub account if you don't have one and confirm your e-mail (required!)
+# Latest Projects
+
+See my latest projects below, You can view more projects in the projects page [here](https://manojitnath.github.io/portfolio/)
 - Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 - Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 - Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
