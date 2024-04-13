@@ -218,6 +218,7 @@ defaults:
   # _posts
   - scope:
       path: ""
+      Classes: wide
       type: posts
     values:
       layout: single
@@ -227,7 +228,6 @@ defaults:
       share: true
       related: true
   # _pages
-  - Classes: wide
   - scope:
       path: ""
       type: pages
