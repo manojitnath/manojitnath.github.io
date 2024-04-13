@@ -216,10 +216,9 @@ collections:
 # Defaults
 defaults:
   # _posts
+  classes: wide
   - scope:
       path: ""
-      layout: single
-      class: wide
       type: posts
     values:
       layout: single
