@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A Cybersecurity professional with 8+ years of experience in cyber risk management & strategy. Implementing cybersecurity solutions that drives business growth and improves information systems. 
-
-Core competencies include Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
+A Cybersecurity professional with 8+ years of experience in cyber risk management & strategy. Implementing cybersecurity solutions that drives business growth and improves information systems. Core competencies include Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
 
 Here, I'll be sharing my professional journey, diving into cloud security labs, and documenting various cybersecurity projects. <br />
 <br />
@@ -22,17 +20,11 @@ My responsibilities involve performing third party risk assessments, IT/OT risk 
 
 For a comprehensive overview of my work experience, please look at my cv [here.](https://manojitnath.github.io/files/CV.pdf)
 
-# Latest Projects
+# Cybersecurity Projects
 
-See my latest projects below, You can view more projects in the projects page [here](https://manojitnath.github.io/portfolio/)
-- Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-- Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-- Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-- Check status by going to the repository settings, in the "GitHub pages" section
+See featured projects below, You can view more projects in the projects page [here.](https://manojitnath.github.io/portfolio/)
 
-### How to edit your site's GitHub repository
+- Project 1 
+- Project 2
+- Project 3 - Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
 
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
