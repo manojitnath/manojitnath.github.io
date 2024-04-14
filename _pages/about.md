@@ -24,7 +24,5 @@ For a comprehensive overview of my work experience, please look at my CV [here.]
 
 See featured projects below, You can view more projects in the projects page [here.](https://manojitnath.github.io/portfolio/)
 
-- Project 1 
-- Project 2
-- Project 3 - Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-
+- [Project 1](https://manojitnath.github.io/portfolio/portfolio-1/)
+- [Project 2](https://manojitnath.github.io/portfolio/portfolio-2/)
