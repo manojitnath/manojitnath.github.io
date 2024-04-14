@@ -9,8 +9,7 @@ redirect_from:
 
 A Cybersecurity professional with 8+ years of experience in cyber risk management & strategy. Implementing cybersecurity solutions that drives business growth and improves information systems. Core competencies include Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
 
-Here, I'll be sharing my professional journey, diving into cloud security labs, and documenting my cybersecurity projects. <br />
-<br />
+Here, I'll be sharing my professional journey, diving into cloud security labs, and documenting my cybersecurity projects.
 
 ## Professional Experience
 
