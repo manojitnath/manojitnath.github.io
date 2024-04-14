@@ -18,8 +18,7 @@ I currently work at Deloitte as a consultant in the cyber risk & strategy domain
 
 My responsibilities involve performing third party risk assessments, IT/OT risk management, cyber maturity assessments across industry standards and regulations like NIST CSF, NIST 800-53, HIPAA etc. 
 
-For a comprehensive overview of my work experience, please look at my CV [here.](https://manojitnath.github.io/files/CV.pdf)<br />
-<br />
+For a comprehensive overview of my work experience, please look at my CV [here.](https://manojitnath.github.io/files/CV.pdf)
 
 ## Cybersecurity Projects
 
