@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-A Cybersecurity professional with 8+ years of experience in cyber risk management & strategy. Core competencies include Cloud Security, IT Governance, Risk & Compliance, IT/OT Risk Management, ISO 27001 Audit.
+A Cybersecurity professional with 8+ years of experience in cyber risk management & strategy. Core competencies include Cloud Security, IT/OT Risk Management, Third party risk management, ISO 27001 Audit, & Cyber maturity assessments across industry standards and regulations like NIST CSF, NIST 800-53, HIPAA.
 
 Here, I'll be sharing my professional journey, diving into cloud security labs, and documenting my cybersecurity projects.
 
 ## Professional Experience
 
 I currently work at Deloitte as a consultant in the cyber risk & strategy domain, where I help clients across various industry sectors of Financial Services, Healthcare, Consumer & Industrial Products, Oil and Gas to achieve their organization's cybersecurity goals and objectives. 
-
-My responsibilities involve performing third party risk assessments, IT/OT risk management, cyber maturity assessments across industry standards and regulations like NIST CSF, NIST 800-53, HIPAA etc. 
 
 For a comprehensive overview of my work experience, please look at my CV [here.](https://manojitnath.github.io/files/CV.pdf)
 
