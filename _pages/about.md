@@ -9,7 +9,7 @@ redirect_from:
 
 A Cybersecurity professional with 8+ years of experience in Cyber Risk Management & Strategy.
 
-My core competencies include Cloud Security, Cyber Risk Management & Cyber Maturity Assessments across industry standards and regulations like ISO 27001, NIST CSF, NIST 800-53, HIPAA etc.
+My core competencies include IT Governance, Risk and Compliance, ISO 27001 Implementation & Audit, SOC 2 Audit, Cyber Risk Management & Cyber Maturity Assessments across industry standards and regulations like ISO 27001, NIST CSF, NIST 800-53, HIPAA, GDPR.
 
 Welcome to my website. Here, I will share my professional journey & document my cybersecurity projects.
 
