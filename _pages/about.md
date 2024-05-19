@@ -20,7 +20,6 @@ I currently work at Deloitte as a Cybersecurity consultant, where I help clients
 For a comprehensive overview of my work experience, please look at my CV [here.](https://manojitnath.github.io/files/CV.pdf)
 
 ## Cybersecurity Projects
-
 See featured projects below, You can view more projects in the projects page [here.](https://manojitnath.github.io/portfolio/)
 
 - [Project 1](https://manojitnath.github.io/portfolio/portfolio-1/)
